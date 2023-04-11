@@ -42,6 +42,7 @@ const About = (props) => {
                 width: 1,
                 height: 600,
                 maxHeight: 600,
+                backgroundColor: 'common.milk',
               }}
           >
               <Stack sx={{ textAlign: 'left', maxWidth: 460, px: 3 }}>

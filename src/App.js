@@ -12,6 +12,7 @@ const App = () => {
       common: {
         white: '#fff',
         black: '#000',
+        milk: '#FEFBF6',
         pearlAqua: '#90d4c4',
         pictonBlue: '#3FBFFF',
         cyberYellow: '#FFD202',

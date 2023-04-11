@@ -32,9 +32,10 @@ const Hero = () => (
                           fontWeight: 600,
                           letterSpacing: 8,
                           textAlign: 'center',
+                          textTransform: 'uppercase',
                         }}
                     >
-                        WE ARE CREATIVES
+                        We are Creatives
                     </Typography>
                 </Box>
                 <Box>
