@@ -9,6 +9,6 @@ This is my repo for the sunnyside landing page challenge by [frontendmentor.io](
 - React js.
 - Mui.
 
-## [Live demo.](https://IbtisamZ.github.io/sunnyside-landing-page)
+## [Live demo](https://IbtisamZ.github.io/sunnyside-landing-page)
 
 
