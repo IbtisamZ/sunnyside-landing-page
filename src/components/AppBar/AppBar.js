@@ -129,7 +129,7 @@ const AppBar = () => {
                                 justifyContent: 'center',
                                 textTransform: item === lastNav ? 'uppercase' : 'none',
                                 backgroundColor: item === lastNav ? 'common.cyberYellow' : 'transparent',
-                                color: item === lastNav ? 'common.black' : 'common.gray2',
+                                color: item === lastNav ? 'common.black' : 'common.gray1',
                                 '&:hover': {
                                   borderRadius: 12,
                                   backgroundColor: item === lastNav ? 'common.cyberYellow' : 'transparent',

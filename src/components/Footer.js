@@ -20,7 +20,7 @@ const SocialMedia = ({ icon }) => (
         sx={{
           mx: 1,
           '&:hover path': {
-            fill: 'common.white',
+            fill: 'white',
           },
         }}
     >
