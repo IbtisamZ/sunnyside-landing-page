@@ -19,6 +19,9 @@
       "import/extensions": "off",
       "react/react-in-jsx-scope": "off",
       "max-len": ["error", { "code": 145 }],
+      "react/jsx-props-no-spreading": [
+        "off"
+      ],
       "react/jsx-filename-extension": [
         1,
         {
