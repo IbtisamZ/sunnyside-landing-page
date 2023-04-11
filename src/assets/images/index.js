@@ -1,0 +1,12 @@
+export { default as hero } from './image-header.jpg';
+export { default as egg } from './image-transform.jpg';
+export { default as juice } from './image-stand-out.jpg';
+export { default as cherries } from './image-graphic-design.jpg';
+export { default as orange } from './image-photography.jpg';
+export { default as milk } from './image-gallery-milkbottles.jpg';
+export { default as sugar } from './image-gallery-sugarcubes.jpg';
+export { default as orangeOnPlate } from './image-gallery-orange.jpg';
+export { default as cone } from './image-gallery-cone.jpg';
+export { default as emily } from './image-emily.jpg';
+export { default as thomas } from './image-thomas.jpg';
+export { default as jennie } from './image-jennie.jpg';
